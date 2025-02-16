@@ -1,0 +1,62 @@
+body
+{
+    background-image: linear-gradient(rgb(255, 199, 115), rgb(255, 190, 69), rgb(255, 94, 0));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul
+{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+li
+{
+    font-size: 36px;
+    color: black;
+    margin-right: 300px;
+}
+li:first-child
+{
+    margin-left: 350px
+}
+a
+{
+    color: black;
+}
+section.Dev-Section img
+{
+    margin-right: 300px;
+}
+section.Dev-Section img:first-child
+{
+    margin-left: 250px;
+}
+section.Dev-Section h1
+{
+    margin-left: 375px;
+    font-size: 76px;
+    word-spacing: 525px;
+}
+img.Main-Pic
+{
+    margin-top: 10px;
+    margin-left: 100px;
+    border: none;
+    border-radius: 200px;
+}
+h1.Title-Text
+{
+ margin-left: 500px;
+ font-size: 100px;
+}
+h1.MadeByText
+{
+    margin-left: 40%;
+    font-size: 44.2px;
+}
+h1.text
+{
+    font-size: 70px;
+    margin-top: 75.6px;
+    margin-left: 35%;
+}
