@@ -2,6 +2,8 @@ body
 {
     background-image: linear-gradient(rgb(255, 199, 115), rgb(255, 190, 69), rgb(255, 94, 0));
     font-family: 'Comic Sans MS';
+    width: device-width;
+    height: device-height;
 }
 ul
 {
